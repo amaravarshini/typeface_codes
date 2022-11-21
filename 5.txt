@@ -1,4 +1,4 @@
-Web crawlers are used to extract data from websites
+Web crawlers are used to extract data from websites. We can use Python to build the Web Crawlers or we can use some of the tools like ParseHub, Scarpy and so on.
 
 Parse Hub is a free and easy to use web crawling tool. This program can copy images and text from the website.
 Steps:
