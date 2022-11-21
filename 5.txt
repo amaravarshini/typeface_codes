@@ -1,0 +1,19 @@
+Web crawlers are used to extract data from websites
+
+Parse Hub is a free and easy to use web crawling tool. This program can copy images and text from the website.
+Steps:
+
+1. Download the ParseHub from the internet and install it on your Personal Computer.
+2. After the successful installation there will be a window which will open.
+3. Select New Project from the opened window.
+4. Enter the URL in the address bar of the website from which you want to extract data.
+5. Click on start project on this URL.
+6. After selecting the required page, Click on Get Data on the left side to crawl the webpage.
+7. There will be a another window which opens.
+8. Click on Run and the program will ask for the data type you wish to download.
+9. Select the required type and program will ask for the Destination folder.
+10. Finally the data will be saved in the destination directory.
+
+This is how the ParseHub will now scrape all the data from the URL that we have given in address bar at the start.
+
+
